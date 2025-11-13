@@ -4,7 +4,8 @@ DDC/CI 프로토콜을 사용하여 모니터 입력소스를 쉽게 전환할 �
 
 ## 프로그램 스크린샷
 
-![모니터 입력 전환기 실행 화면](screenshot.png)
+<img width="686" height="583" alt="image" src="https://github.com/user-attachments/assets/6ccb29fe-1a43-4842-9891-50ee3d1ff67f" />
+
 
 위 스크린샷에서 볼 수 있듯이:
 - **상단 그리드**: 각 모니터의 위치와 색상으로 구분된 시각적 표현
